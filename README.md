@@ -1,4 +1,4 @@
-<h1> ㅤFull Kotlin track in Exercism platform! </h3>
+<h1> ㅤFull Kotlin track in Exercism platform! (31/07/22)</h3>
 <h3>Exercism é uma plataforma de exercícios de fixação que contempla diversas linguagens.
 Neste repositório será inserido TODOS exercícios de Kotlin,e meu desafio é completa-los.</h3>
 
