@@ -7,4 +7,12 @@ Neste repositório será inserido TODOS exercícios de Kotlin,e meu desafio é c
   
   <h3>Exercício 1 -> "Hello World"</h3>
   O Clássico "Hello World".
-
+  
+  ![image](https://user-images.githubusercontent.com/101603957/182040292-7a598d3b-5c93-4504-ba3a-9d8c7d0c73ed.png)
+  ----------------------------------------------------------------------------------------------------------------
+<h3> Exercício 2-> "Two-Fer"</h3>
+ Um pra você, um pra mim!
+ Input do usuário armazenado na variável "name". Caso name esteja vazio, a estrutura if verifica
+ e exibe outra mensagem.
+ 
+ ![image](https://user-images.githubusercontent.com/101603957/182040443-f7970377-3688-4294-a4d1-c845471b12b1.png)
